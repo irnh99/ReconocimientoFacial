@@ -1,0 +1,18 @@
+El trabajo principal se ocupa dividir en tres:
+1.- La elaboracion de los haar cascades, que utilizaremos para ubicar puntos clabe de facciones de la cara
+    https://pythonprogramming.net/haar-cascade-object-detection-python-opencv-tutorial/
+2.- El filtro para quitar los datos basura, y tomar las medidas de los puntos
+https://thecodacus.com/opencv-python-face-detection/#.WePzv1-nGM8
+3.-La toma de desición
+y aun faltaria el uso de la camara de nao pero a lo que vi se le hace la solicitud como api y se procesa todo con la computadora.
+
+Esto es para que instalen openCV en python2.7 si aun no lo tienen :
+http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_setup/py_setup_in_windows/py_setup_in_windows.html
+
+las versiones de librerias que se manejan son:
+openCV 2.4.13.4
+https://opencv.org/releases.html
+numpy 1.10 https://sourceforge.net/projects/numpy/files/NumPy/1.10.0/numpy-1.10.0-win32-superpack-python2.7.exe/download
+
+repositorio de git:
+https://github.com/irnh99/ReconocimientoFacial.git
